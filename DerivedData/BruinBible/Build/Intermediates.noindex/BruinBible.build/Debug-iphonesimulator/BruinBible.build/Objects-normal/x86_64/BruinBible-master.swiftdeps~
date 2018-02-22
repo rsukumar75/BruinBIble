@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "a74eaa42cb1962d6c2a64b5a2a2c4b1c"
+build_time: [1519271384, 531961000]
+inputs:
+  "/Users/rishabsukumar/Documents/BruinBible/BruinBible/ViewController.swift": !dirty [1519269252, 0]
+  "/Users/rishabsukumar/Documents/BruinBible/BruinBible/AppDelegate.swift": !dirty [1519269252, 0]
